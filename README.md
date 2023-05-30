@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oscar Juarez Fernandez</h1>
 <h3 align="center">A passionate frontend developer from El Salvador</h3>
 
+![Insignia](cms_files_10224_1671210503Prancheta_3.png)
+
 - 🌱 I’m currently learning **Web programming course in ONE (Oracle Next Education)**
 
 - 💬 Ask me about **html y css**
